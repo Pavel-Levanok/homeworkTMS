@@ -1,0 +1,15 @@
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.csproj.AssemblyReference.cache
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.AssemblyInfoInputs.cache
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.AssemblyInfo.cs
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.csproj.CoreCompileInputs.cache
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\bin\Debug\net6.0\Student_list.exe
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\bin\Debug\net6.0\Student_list.deps.json
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\bin\Debug\net6.0\Student_list.runtimeconfig.json
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\bin\Debug\net6.0\Student_list.dll
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\bin\Debug\net6.0\Student_list.pdb
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.dll
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\refint\Student_list.dll
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.pdb
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\Student_list.genruntimeconfig.cache
+C:\С# Study\Homeworks\Homework5\Student_list\Student_list\obj\Debug\net6.0\ref\Student_list.dll
