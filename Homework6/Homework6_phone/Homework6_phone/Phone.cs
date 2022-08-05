@@ -29,7 +29,7 @@ namespace Homework6_phone
             }
             set
             {
-                if (_weight < 0)
+                if (value < 0)
                 {
                     _weight = 0;
                 }
