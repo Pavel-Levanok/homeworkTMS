@@ -1,0 +1,15 @@
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\bin\Debug\net6.0\Homework6_phone.exe
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\bin\Debug\net6.0\Homework6_phone.deps.json
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\bin\Debug\net6.0\Homework6_phone.runtimeconfig.json
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\bin\Debug\net6.0\Homework6_phone.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\bin\Debug\net6.0\Homework6_phone.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.csproj.AssemblyReference.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.AssemblyInfoInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.AssemblyInfo.cs
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.csproj.CoreCompileInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\refint\Homework6_phone.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\Homework6_phone.genruntimeconfig.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework6\Homework6_phone\Homework6_phone\obj\Debug\net6.0\ref\Homework6_phone.dll
