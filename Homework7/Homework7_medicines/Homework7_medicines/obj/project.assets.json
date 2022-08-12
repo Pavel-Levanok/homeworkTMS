@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework6\\Homework6_phone\\Homework6_phone\\Homework6_phone.csproj",
-      "projectName": "Homework6_phone",
-      "projectPath": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework6\\Homework6_phone\\Homework6_phone\\Homework6_phone.csproj",
+      "projectUniqueName": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework7\\Homework7_medicines\\Homework7_medicines\\Homework7_medicines.csproj",
+      "projectName": "Homework7_medicines",
+      "projectPath": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework7\\Homework7_medicines\\Homework7_medicines\\Homework7_medicines.csproj",
       "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
-      "outputPath": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework6\\Homework6_phone\\Homework6_phone\\obj\\",
+      "outputPath": "C:\\С# Study\\Homeworks\\homeworkTMS\\Homework7\\Homework7_medicines\\Homework7_medicines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config",

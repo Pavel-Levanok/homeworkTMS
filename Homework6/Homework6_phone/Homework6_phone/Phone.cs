@@ -39,7 +39,7 @@ namespace Homework6_phone
                 }
             }
         }
-
+         
         public void RecieveCall(string name)
         {
             Console.WriteLine($"Вам звонит {name}");

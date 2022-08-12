@@ -1,0 +1,15 @@
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.csproj.AssemblyReference.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.AssemblyInfoInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.AssemblyInfo.cs
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.csproj.CoreCompileInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\bin\Debug\net6.0\Homework7_medicines.exe
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\bin\Debug\net6.0\Homework7_medicines.deps.json
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\bin\Debug\net6.0\Homework7_medicines.runtimeconfig.json
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\bin\Debug\net6.0\Homework7_medicines.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\bin\Debug\net6.0\Homework7_medicines.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\refint\Homework7_medicines.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\Homework7_medicines.genruntimeconfig.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_medicines\Homework7_medicines\obj\Debug\net6.0\ref\Homework7_medicines.dll
