@@ -10,7 +10,6 @@ namespace Homework7_medicines
     {
         public string _name;
         public int _cost;
-
         public Medicine(string name, int cost)
         {
             Name = name;
