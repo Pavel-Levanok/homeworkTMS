@@ -1,0 +1,15 @@
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\bin\Debug\net6.0\Homework7_fraction.exe
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\bin\Debug\net6.0\Homework7_fraction.deps.json
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\bin\Debug\net6.0\Homework7_fraction.runtimeconfig.json
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\bin\Debug\net6.0\Homework7_fraction.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\bin\Debug\net6.0\Homework7_fraction.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.csproj.AssemblyReference.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.AssemblyInfoInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.AssemblyInfo.cs
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.csproj.CoreCompileInputs.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\refint\Homework7_fraction.dll
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.pdb
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\Homework7_fraction.genruntimeconfig.cache
+C:\С# Study\Homeworks\homeworkTMS\Homework7\Homework7_fraction\Homework7_\obj\Debug\net6.0\ref\Homework7_fraction.dll
