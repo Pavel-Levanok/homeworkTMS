@@ -9,8 +9,8 @@ namespace Homework6_phone
     public class Phone
     {
         public string _number;
-        public string _model;
-        public double _weight;
+        public string _model;   // это можно не писать, т.к. автоствойство - только get; set;
+        public double _weight; 
 
         public Phone(string number, string model, double weight)
         {
@@ -20,7 +20,9 @@ namespace Homework6_phone
         }
 
         public string Number { get; private set; }
-        public string Model { get; set; }
+        // если нет set, то это значит что только рид онли. нельзя поменять поле
+        public string Model { get; set; } // автосвойство
+
         public double Weight
         {
             get
