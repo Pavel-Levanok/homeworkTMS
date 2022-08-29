@@ -20,7 +20,7 @@ namespace Homework9
                 if (value < 0)
                 {
                     _experience = 0;
-                    
+
                 }
                 else
                 {
@@ -74,14 +74,6 @@ namespace Homework9
             {
                 Console.WriteLine($" {employee.Name}, зарплата:{salary_Delegate(employee)}");
             }
-
         }
-
-
-
-
-
-
-
     }
 }
