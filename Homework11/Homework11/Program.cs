@@ -18,20 +18,24 @@
                 
             }
 
-            catch (ArgumentNullException ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
 
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            
+            //catch (ArgumentNullException ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+
+            //catch (ArgumentException ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+
             finally
             {
-                Console.WriteLine("finally");
-                
+                Console.WriteLine("Finally block");                
             }
 
         }
