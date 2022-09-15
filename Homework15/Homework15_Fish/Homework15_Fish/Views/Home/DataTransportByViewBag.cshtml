@@ -1,0 +1,15 @@
+﻿@{
+    var fishes = ViewBag.Fishes as Fish[];
+
+
+    ViewBag.Title = "DataTransportByViewBag";
+}
+<h1>ByViewBag</h1>
+
+<ul>
+    @foreach (var fish in fishes)
+    {
+        <li>@("Name: " + fish.Name + " Weight: " + fish.Weight + " Speed: " + fish.Speed)</li>
+    }
+</ul>
+

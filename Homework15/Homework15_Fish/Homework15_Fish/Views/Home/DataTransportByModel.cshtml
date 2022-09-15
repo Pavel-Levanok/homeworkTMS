@@ -1,0 +1,17 @@
+﻿@model Fish[]
+@{
+    ViewBag.Title = "DataTransportByModel";
+
+    Model[0].Name = ViewData["Name"] as string;
+    int i = Model.Length - 1;
+    Model[i].Speed = ViewBag.Weight;
+}
+<h1>ByModel</h1>
+
+
+<ul>
+    @foreach (var fish in Model)
+    {
+        <li>@("Name: " + fish.Name + " Weight: " + fish.Weight + " Speed: " + fish.Speed)</li>
+    }
+</ul>
